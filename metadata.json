@@ -1,0 +1,5 @@
+{
+  "name": "Campaign Engine Core",
+  "description": "A Swiss-style, minimalist marketing campaign generator powered by Gemini 2.5.",
+  "requestFramePermissions": []
+}
